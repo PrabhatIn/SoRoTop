@@ -12,7 +12,7 @@
 ## [xmma,~,~,~,~,~,~,~,~,low,upp] = mmasub(mMMA,nMMA,loop,xMMA,xminvec,xmaxvec,xold1,xold2,0,0,0,fval,dfdx,0*dfdx,low,upp,a0,aMMA,cMMA,dMMA);
 (ii) 
 With the 2006 version of MMA, one can modify MMA call (line 110) to:
-## [xmma,~,~,~,~,~,~,~,~,low,upp]=mmasub(mMMA,nMMA,loop,xMMA,xminvec,xmaxvec,xold1,xold2,0,0,0,fval,dfdx,low,upp,a0,aMMA,cMMA,dMMA);
+## [xmma,~,~,~,~,~,~,~,~,low,upp]=mmasub(mMMA,nMMA,loop,xMMA,xminvec,xmaxvec,xold1,xold2,0,0,fval,dfdx,low,upp,a0,aMMA,cMMA,dMMA);
 ## Citation
 For citing the paper, please use the following bibtex format:
 ```
