@@ -1,6 +1,6 @@
 # SoRoTop
 ## SoRoTop: a hitchhiker’s guide to topology optimization MATLAB code for design-dependent pneumatic-driven soft robots
-`SoRoTop.m` provides a MATLAB implementation for topology optimization for design-dependent pneumatic-driven soft robots. Demands for pneumatic-driven soft robots are constantly rising for various applications. However, they are often designed manually due to the lack of systematic methods. Moreover, design-dependent characteristics of pneumatic actuation pose distinctive challenges. SoRoTop is developed for designing pneumatic-driven soft robots using topology optimization.
+`SoRoTop.m` provides a MATLAB implementation for topology optimization for design-dependent pneumatic-driven soft robots. Demands for pneumatic-driven soft robots are constantly rising for various applications. However, they are often designed manually due to the lack of systematic methods. Moreover, design-dependent characteristics of pneumatic actuation pose distinctive challenges. SoRoTop is developed for designing such pneumatic-driven soft robots using topology optimization.
 ## About
 Author: Prabhat Kumar, Department of Mechanical and Aerospace Engineering, Indian Institute of Technology Hyderabad, India. Please send your comments and suggestions to  pkumar@mae.iith.ac.in or prabhatkumar.rns@gmail.com
 ## How to use
