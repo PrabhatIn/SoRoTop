@@ -4,7 +4,7 @@
 ## About author
  Prabhat Kumar, Department of Mechanical and Aerospace Engineering, Indian Institute of Technology Hyderabad, India. Please send your comments and suggestions to  pkumar@mae.iith.ac.in or prabhatkumar.rns@gmail.com
 ## How to use
-1. Please see the paper: P. Kumar (2023) SoRoTop: a hitchhiker’s guide to topology optimization MATLAB code for design-dependent pneumatic-driven soft robots,  Optimization and Engineering, 2023
+1. Please see the paper: P. Kumar (2023) [SoRoTop: a hitchhiker’s guide to topology optimization MATLAB code for design-dependent pneumatic-driven soft robots,  Optimization and Engineering, 2023](https://link.springer.com/article/10.1007/s11081-023-09865-1)
 2. MMA setting:
 (i) SoRoTop uses the MMA written in 1999 and updated in the 2002 version. The mmasub function has the following form
 ## [xmma,ymma,zmma,lam,xsi,eta,mu,zet,s,low,upp] = mmasub(m,n,iter,xval,xmin,xmax,xold1,xold2,f0val,df0dx,df0dx2,fval,dfdx,dfdx2,low,upp,a0,a,c,d);
